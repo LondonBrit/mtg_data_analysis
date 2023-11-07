@@ -3,3 +3,5 @@
 *.csv
 MTG Card Analysis.ipynb
 *.gitignore
+*.ipynb_checkpoints
+*.py
