@@ -1,8 +1,7 @@
 *.html
 *.json
 *.csv
-MTG Card Analysis.ipynb
-Quick Analysis.ipynb
+Working Notebook.ipynb
 *.gitignore
 *.ipynb_checkpoints
 *.py
