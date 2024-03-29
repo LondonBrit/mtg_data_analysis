@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "../testfolder"
+			"path": "../mtg-vis"
 		}
 	],
 	"settings": {}
